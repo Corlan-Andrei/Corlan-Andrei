@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Corlan-Andrei, a mostly self-taught programmer after having completed a number of online courses.
 - 👀 I’m interested in learning more about Python and a couple of Web Dev things like HTML and CSS
-- 🌱 I’m currently looking into learning more about HTML and CSS, mostly because I'd like to create my own styles rather than rely on Bootstrap or the like, as well as learning how to better use Git.
+- 🌱 I’m currently looking into learning more about HTML and CSS, mostly because I'd like to create my own styles rather than rely on Bootstrap or the like, as well as learning how to better use Git and Github.
 - 💞️ I’m looking to collaborate on ...
 - 📫 My email address is markov.geist@gmail.com
 
